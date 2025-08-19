@@ -7,7 +7,7 @@ Repositório com exercícios práticos para aprimorar lógica de programação u
 - ☕ Java
 - ⚙️ Gradle
 
-### Pré-requisitos
+### Pré-requisitos    
 
 - Java JDK 11 ou superior instalado
 - Gradle instalado (ou usar o wrapper `gradlew`)
