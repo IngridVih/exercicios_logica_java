@@ -4,7 +4,7 @@ Repositório com exercícios práticos para aprimorar lógica de programação u
 
 ## 🛠 Tecnologias   
   
-- ☕ Java   
+- ☕ Java
 - ⚙️ Gradle
  
 ### Pré-requisitos     
