@@ -1,7 +1,7 @@
 # 🧩 Exercícios de Lógica em Java
 
 Repositório com exercícios práticos para aprimorar lógica de programação usando Java.
-
+  
 ## 🛠 Tecnologias   
   
 - ☕ Java
