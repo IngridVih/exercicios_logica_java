@@ -30,5 +30,5 @@ cd exercicios_logica_java
 ./gradlew build
 ./gradlew run
 ```
-
+    
 
